@@ -4,8 +4,6 @@ import java.io.IOException;
 import java.util.Scanner;
 import javax.sound.sampled.*;
 
-import static javax.sound.sampled.AudioInputStream.*;
-
 public class Audio {
     public static void main(String[] args) throws LineUnavailableException, IOException, UnsupportedAudioFileException {
 
